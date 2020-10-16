@@ -2,8 +2,7 @@
 
 for x in range(5):
     print(x)
-    
-    
+
     
 count = 0
 while count < 5:
@@ -24,5 +23,7 @@ while True:
     if count >= 5:
         break
     
-    
+primes = [2, 3, 5, 7]
+for prime in primes:
+    print(prime)
     
